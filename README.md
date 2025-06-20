@@ -24,5 +24,3 @@ Running the `simulated_annealing/GL_Jax.ipynb` notebook generates simulation res
 - **Numpy arrays** (`.npy`): Final simulation states, e.g., `Delta_final_cylinder_25_884736_0.25.npy`
 - **HTML reports** (`.html`): Interactive summaries of the results (3d model of isosurface of 0.5 density)
 - **PNG images**: Slices and visualizations of the simulation, such as `x-slice.png`, `y-slice.png`, `velocity_field_z_slice.png`, and residual plots
-
-These outputs allow for further analysis and visualization of the computed ground state solutions and their properties.
